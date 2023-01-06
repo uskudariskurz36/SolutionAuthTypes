@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppWindowsAuth", "AppWindowsAuth\AppWindowsAuth.csproj", "{8C942F45-9399-4B92-9B3C-61B999DFEBBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppIndividualAuth", "AppIndividualAuth\AppIndividualAuth.csproj", "{57FC1EB1-A88E-4B01-9728-CEFA1EB118E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C942F45-9399-4B92-9B3C-61B999DFEBBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C942F45-9399-4B92-9B3C-61B999DFEBBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C942F45-9399-4B92-9B3C-61B999DFEBBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C942F45-9399-4B92-9B3C-61B999DFEBBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57FC1EB1-A88E-4B01-9728-CEFA1EB118E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57FC1EB1-A88E-4B01-9728-CEFA1EB118E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57FC1EB1-A88E-4B01-9728-CEFA1EB118E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57FC1EB1-A88E-4B01-9728-CEFA1EB118E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49B1BC37-D7EC-4F6A-99AE-1934AE8404D3}
+	EndGlobalSection
+EndGlobal
